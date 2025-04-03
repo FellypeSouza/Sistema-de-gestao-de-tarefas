@@ -1,8 +1,8 @@
 <section class="container">
     <section class="form">
         <h1>Login</h1>
-        <input type="text" placeholder="✉️ Email ou nome de usuário"/>
-        <input type="text" placeholder="🔒 Senha"/>
-        <button>Entrar</button>
+        <input type="text" placeholder="✉️ Email ou nome de usuário" [(ngModel)]="inputNome" id="htmlInputNome"/>
+        <input type="text" placeholder="🔒 Senha" [(ngModel)]="inputSenha"/>
+        <button (click)="Login(inputNome, inputSenha)">Entrar</button>
     </section>
 </section>

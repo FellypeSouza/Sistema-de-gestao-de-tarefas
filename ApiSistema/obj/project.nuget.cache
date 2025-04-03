@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s1Ao+qArD58=",
+  "dgSpecHash": "wIR0mG0001s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fellype\\Desktop\\Gestao de tarefas\\main\\apisistema\\ApiSistema.csproj",
+  "projectFilePath": "C:\\Users\\Fellype\\Desktop\\Gestao de tarefas\\main\\ApiSistema\\ApiSistema.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fellype\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Fellype\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

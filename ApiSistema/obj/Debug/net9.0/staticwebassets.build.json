@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4FmPBStjdovx3sDYZv1ar4ayfjLV5VO3e8+9v6k30QY=",
+  "Source": "ApiSistema",
+  "BasePath": "_content/ApiSistema",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
